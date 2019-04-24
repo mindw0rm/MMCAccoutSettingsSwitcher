@@ -7,10 +7,11 @@ A small tool for [MultiMC](https://multimc.org/) that manages minecraft settings
 No fancy installer, just copy the binary to whereever you want it (hint: the MultiMC folder is a good place, since you won't need to specify a path).
 
 After that, open the MultiMC settings, custom commands tab. 
-Pre-launch command | /path/to/your/MMCAccountSettingsSwitcher start
-Post-exit command  | /path/to/your/MMCAccountSettingsSwitcher stop
 
-It you put the binary in the MultiMC folder, you don'T have to specify a path, the binary name is sufficient.
+* Pre-launch command: `/path/to/your/MMCAccountSettingsSwitcher start`
+* Post-exit command: `/path/to/your/MMCAccountSettingsSwitcher stop`
+
+It you put the binary in the MultiMC folder, you don't have to specify a path, the binary name is sufficient.
 
 ## Compilation
 
