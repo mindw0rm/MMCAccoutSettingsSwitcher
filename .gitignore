@@ -1,0 +1,10 @@
+# VS files/folders and gcc output folders
+/.vs/
+/Debug/
+/Release/
+/MMCAccoutSettingsSwitcher.VC.db
+/MMCAccoutSettingsSwitcher/Debug/
+/MMCAccoutSettingsSwitcher/Release/
+/MMCAccoutSettingsSwitcher/MMCAccoutSettingsSwitcher.vcxproj.filters
+/MMCAccoutSettingsSwitcher/MMCAccoutSettingsSwitcher.vcxproj.user
+
